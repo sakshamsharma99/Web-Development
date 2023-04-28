@@ -24,7 +24,7 @@ a {
     padding: 18px;
     margin: 9px;
     border-radius: 8px;
-    border-top: 3px solid #f06d06;
+    border-top: 3px solid #0088CA;
 }
 .form-wrap .form-group input {
     display: block;
@@ -46,8 +46,8 @@ button {
     width: 100%;
     padding: 11px;
     margin-top: 20px;
-    background-color: #f06d06;
-    border: #f06d06;
+    background-color: #0088CA;
+    border: #0088CA;
     border-radius: 8px;
 }
 .By {
@@ -55,7 +55,7 @@ button {
 }
 
 footer a {
-    color: #f06d06;
+    color: #0088CA;
 }
 footer {
     text-align: center;
